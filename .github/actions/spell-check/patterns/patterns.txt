@@ -1,0 +1,9 @@
+https://(?:(?:www\.|)youtube\.com|youtu.be)/[-a-zA-Z0-9?&=]*
+# This is a common markdown pattern, it isn't a CSS color:
+# `[...](#backport)` -> `[...]( kport)`
+\]\(#
+# To use a # on its own as the first character, wrap it in []s.
+# #define -> ine
+[#]define
+(?:0[Xx]|U\+|#)[a-f0-9A-FGgRr]{2,}[Uu]?[Ll]?
+\{[0-9A-FA-F]{8}-(?:[0-9A-FA-F]{4}-){3}[0-9A-FA-F]{12}\}
