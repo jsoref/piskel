@@ -62,6 +62,7 @@ SUMS$
 ^src/js/lib/
 ^test/casperjs/integration/palettes/test-tiny-palettes\.js$
 ^test/casperjs/integration/settings/test-export-gif\.js$
+^test/casperjs/integration/settings/test-import-image-empty\.js$
 ^test/casperjs/integration/settings/test-import-image-twice\.js$
 ^test/casperjs/integration/settings/test-import-image\.js$
 ^test/drawing/tests/
