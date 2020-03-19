@@ -1,4 +1,5 @@
 Arial
+attr
 cellpadding
 cellspacing
 colgroup
@@ -10,7 +11,10 @@ cssom
 csswg
 firefox
 github
+gmail
 google
+homepage
+hostname
 href
 html
 http
@@ -29,6 +33,7 @@ lightgrey
 microsoft
 mozilla
 nbsp
+Neue
 phantomjs
 png
 src
@@ -36,14 +41,18 @@ stylesheet
 svg
 tabindex
 Tahoma
+tbody
+td
 textarea
 thead
 touchend
 touchmove
 touchstart
+truetype
 ttf
 uri
 url
+useragent
 utf
 webkit
 webpage
@@ -56,3 +65,4 @@ www
 xhr
 xhtml
 xml
+xmlns
