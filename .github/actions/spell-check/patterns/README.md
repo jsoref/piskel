@@ -7,6 +7,8 @@ Note: order of the contents of these files can matter.
 Lines from an individual file are handled in file order.
 Files are selected in alphabetical order.
 
+* [quirks](quirks.txt) is for strings that are misparsed but wouldn't be flagged
+if it didn't specially handle certain printf escape sequences.
 * [patterns](patterns.txt) is the main list -- there is nothing
 particularly special about the file name (beyond the extension which is
 important).

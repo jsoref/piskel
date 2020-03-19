@@ -57,9 +57,12 @@ SUMS$
 \.zip$
 ^misc/selenium-ide/
 ^src/css/bootstrap/bootstrap\.css$
+^src/css/font-icon\.css$
 ^src/css/fonts/
 ^src/css/spectrum/spectrum\.css$
 ^src/js/lib/
+^src/js/utils/UserAgent\.js$
+^src/js/utils/Uuid\.js$
 ^test/casperjs/integration/palettes/test-tiny-palettes\.js$
 ^test/casperjs/integration/settings/test-export-gif\.js$
 ^test/casperjs/integration/settings/test-import-image-empty\.js$

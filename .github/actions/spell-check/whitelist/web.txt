@@ -9,6 +9,8 @@ css
 cssclass
 cssom
 csswg
+dpi
+eot
 firefox
 github
 gmail
@@ -31,11 +33,13 @@ keyup
 khtml
 lightgrey
 microsoft
+moz
 mozilla
 nbsp
 Neue
 phantomjs
 png
+px
 src
 stylesheet
 svg
@@ -44,12 +48,14 @@ Tahoma
 tbody
 td
 textarea
+textfield
 thead
 touchend
 touchmove
 touchstart
 truetype
 ttf
+ul
 uri
 url
 useragent
