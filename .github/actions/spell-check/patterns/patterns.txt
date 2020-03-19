@@ -7,3 +7,6 @@ https://(?:(?:www\.|)youtube\.com|youtu.be)/[-a-zA-Z0-9?&=]*
 [#]define
 (?:0[Xx]|U\+|#)[a-f0-9A-FGgRr]{2,}[Uu]?[Ll]?
 \{[0-9A-FA-F]{8}-(?:[0-9A-FA-F]{4}-){3}[0-9A-FA-F]{12}\}
+data:[a-zA-Z=;,/0-9+]+
+# partial data: url from GridPreferencesController.js
+F8uw[a-zA-Z=;,/0-9+]+
