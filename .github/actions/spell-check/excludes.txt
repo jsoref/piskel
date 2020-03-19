@@ -1,3 +1,9 @@
+/jquery-
+^misc/selenium-ide/
+^src/js/lib/
+^src/css/spectrum/spectrum\.css$
+^src/css/bootstrap/bootstrap\.css$
+^src/css/fonts/
 (?:^|/)dirs$
 (?:^|/)go\.mod$
 (?:^|/)go\.sum$
@@ -52,3 +58,7 @@ SUMS$
 \.yml$
 \.zip$
 ^\.github/actions/spell-check/
+^test/drawing/tests/
+ignore$
+\.piskel$
+\.pdn$
