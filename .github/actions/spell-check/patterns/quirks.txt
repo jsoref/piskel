@@ -1,0 +1,2 @@
+# windows paths that start with \n \r and \t are mishandled
+desktop\\releases
