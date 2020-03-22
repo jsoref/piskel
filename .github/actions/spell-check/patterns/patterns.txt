@@ -2,6 +2,9 @@ https://(?:(?:www\.|)youtube\.com|youtu.be)/[-a-zA-Z0-9?&=]*
 # This is a common markdown pattern, it isn't a CSS color:
 # `[...](#backport)` -> `[...]( kport)`
 \]\(#
+# This is a jQuery pattern, it isn't a CSS color:
+# `$("#canvas")` -> `$(" nvas")`
+[#](?:canvas|casper)\b
 # To use a # on its own as the first character, wrap it in []s.
 # #define -> ine
 [#]define
