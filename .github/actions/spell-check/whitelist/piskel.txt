@@ -68,6 +68,7 @@ dnd
 doctype
 drag'n
 dragndrop
+dragndropping
 dragover
 dropbox
 Dropdown
@@ -155,6 +156,7 @@ minimap
 minimist
 minmax
 mkdir
+monstah
 mousedown
 mousemove
 mousemoving
